@@ -1,0 +1,2 @@
+def pre():
+    print("hello")
